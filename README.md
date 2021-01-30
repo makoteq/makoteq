@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Maciej
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makoteq)](https://github.com/anuraghazra/github-readme-stats)
+
+:hammer: Skills : 
+Node, Vue, Express, MongoDB, MYSQL, Electron && UI design
 <!--
 **makoteq/makoteq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
