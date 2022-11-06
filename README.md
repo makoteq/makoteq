@@ -1,7 +1,7 @@
 ### Hello there 👋 I'm makoteq
 
 :hammer: Skills : 
-Node, Vue, Express, React MongoDB, Electron && UI design
+Node, Vue, Express, React, MongoDB, Electron && UI design
 <!--
 **makoteq/makoteq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
