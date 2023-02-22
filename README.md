@@ -1,4 +1,5 @@
 ### Hello there 👋 I'm makoteq
 
-__contact me via matrix___
+contact me via matrix
+
 https://matrix.to/#/@makoteq:matrix.org
